@@ -1,0 +1,2 @@
+# Kinbot
+Kinect and robot
